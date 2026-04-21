@@ -5,6 +5,6 @@ OUTPUT 2:POST DETAILS
 OUTPUT 3:GET DETAILS
 <img width="1917" height="1025" alt="Screenshot 2026-04-21 102448" src="https://github.com/user-attachments/assets/4bb34e97-a1e3-4039-86cb-d19cc2d74fe4" />
 OUTPUT 4:PUT NEW DETAILS
-<img width="1918" height="1040" alt="Screenshot 2026-04-21 102523" src="https://github.com/user-attachments/assets/26eb658f-bd71-4cf7-9ca1-74eeb1730625" />
+<img width="1919" height="1037" alt="Screenshot 2026-04-21 102623" src="https://github.com/user-attachments/assets/4830db86-062b-4303-b4af-51f06b4a6d05" />
 OUTPUT 5: DELETE 
 <img width="1919" height="1036" alt="Screenshot 2026-04-21 102658" src="https://github.com/user-attachments/assets/700794e1-016b-420a-bad4-4bc1b28012ca" />
